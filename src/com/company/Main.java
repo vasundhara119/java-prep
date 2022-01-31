@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code heresyste
-        System.out.println("Hello");
+        System.out.println("Hello World");
 
     }
 }
