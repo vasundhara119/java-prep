@@ -11,7 +11,7 @@ public class StringMethods {
 //        System.out.println(name.toLowerCase());
 //        System.out.println(name.toUpperCase());
 //
-//        String nontrimString = "        Vasundhara           ";
+//        String nontrimString = "        Vasundhara Tyagu          ";
 //        System.out.println(nontrimString.trim());
 
 //        System.out.println(name.substring(0));
